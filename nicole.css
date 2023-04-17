@@ -1,0 +1,32 @@
+.cabeçalho
+{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+}
+h2{
+    background-color: aquamarine;
+}
+.imagem{
+    width:20px;
+    background-image: -o-linear-gradient(#383d58);
+}
+p{
+    font-size: 18px;
+}
+.paragrafo1{
+    font-size: 30px;
+}
+.paragrafos{
+    font-size: 16px;
+}
+.lista{
+    display: inline-block;
+    margin: 0 16px;
+}
+footer{
+    background-color: black;
+    padding: 15px 0;
+    display:grid
+}
